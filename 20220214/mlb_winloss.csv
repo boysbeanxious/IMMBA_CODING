@@ -1,0 +1,31 @@
+Rank,Team,Won,Lost,Tied,First MLB Season,Division
+1,New York Yankees,"10,621","8,090",93,1901,AL East
+2,San Francisco Giants,"11,301","9,773",163,1883,NL West
+3,Los Angeles Dodgers,"11,123","9,891",139,1884,NL West
+4,St. Louis Cardinals,"11,038","10,163",152,1882,NL Central
+5,Boston Red Sox,"9,718","9,014",83,1901,AL East
+6,Chicago Cubs,"11,087","10,521",161,1876,NL Central
+7,Cleveland Guardians,"9,592","9,144",91,1901,AL Central
+8,Cincinnati Reds,"10,713","10,501",139,1882,NL Central
+9,Detroit Tigers,"9,446","9,311",93,1901,AL Central
+10,Chicago White Sox,"9,411","9,309",103,1901,AL Central
+11,Pittsburgh Pirates,"10,625","10,547",140,1882,NL Central
+12,Atlanta Braves,"10,820","10,757",154,1876,NL East
+13,Los Angeles Angels,"4,812","4,838",3,1961,AL West
+14,Houston Astros,"4,725","4,764",5,1962,AL West
+15,Toronto Blue Jays,"3,506","3,557",3,1977,AL East
+16,Oakland Athletics,"9,150","9,552",87,1901,AL West
+17,Washington Nationals,"4,068","4,280",4,1969,NL East
+18,Arizona Diamondbacks,"1,840","1,946",0,1998,NL West
+19,Milwaukee Brewers,"4,037","4,315",4,1969,NL Central
+20,Tampa Bay Rays,"1,826","1,958",0,1998,AL East
+21,Minnesota Twins,"9,012","9,716",109,1901,AL Central
+22,New York Mets,"4,551","4,927",8,1962,NL East
+23,Kansas City Royals,"4,001","4,344",2,1969,AL Central
+24,Texas Rangers,"4,582","5,052",6,1961,AL West
+25,Baltimore Orioles,"8,845","9,873",110,1901,AL East
+26,Seattle Mariners,"3,336","3,727",2,1977,AL West
+27,Philadelphia Phillies,"9,935","11,112",115,1883,NL East
+28,Colorado Rockies,"2,133","2,401",0,1993,NL West
+29,San Diego Padres,"3,863","4,495",2,1969,NL West
+30,Miami Marlins,"2,088","2,438",0,1993,NL East
